@@ -1,0 +1,267 @@
+Primer,Sequence,Description,Comment,Source
+3’AOX1,"GCAAATGGCATTCTGACATCC
+","For Pichia vectors with AOX1 terminator, reverse primer",NA,signagen
+5’AOX1,"GACTGGTTCCAATTGACAAGC
+","For Pichia vectors with AOX1 promoter, forward primer",NA,signagen
+35S promoter,"CTATCCTTCGCAAGACCCTTC
+","CaMV 35S promoter, forward primer",NA,signagen
+AC5,"ACACAAAGCCGCTCCATCAG
+","Drosophila Actin 5C promoter, forward primer",NA,signagen
+Alpha-factor,"TACTATTGCCAGCATTGCTGC
+","Alpha factor signal sequence, forward primer",NA,signagen
+Amp-R,"ATAATACCGCGCCACATAGC
+","5′ end of ampicillin resistance gene, reverse primer",NA,signagen
+AUG1 Forward,"CAATTTACATCTTTATTTATTAACG
+","For Pichia vectors with AUG1 promoter, forward primer",NA,signagen
+AUG1 Reverse,"GAAGAGAAAAACATTAGTTGGC
+","For Pichia vectors with AUG1 promoter, reverse primer",NA,signagen
+BGH Reverse,"TAGAAGGCACAGTCGAGG
+","Bovine growth hormone terminator, reverse primer",NA,signagen
+Bglob-intron-F,"CTGGTCATCATCCTGCCTTT
+","Rabbit beta-globin intron, forward primer",NA,signagen
+Bglob-intron-R,"TTTGCCCCCTCCATATAACA
+","Rabbit beta-globin intron, reverse primer",NA,signagen
+Bglob-pA-R,"TTTTGGCAGAGGGAAAAAGA
+","Rabbit beta-globin polyA region, reverse primer",NA,signagen
+CAT-R,"GCAACTGACTGAAATGCCTC
+","5′ end of chloramphenicol resistance gene, reverse primer",NA,signagen
+CMV Forward,"CGCAAATGGGCGGTAGGCGTG
+","Human CMV immediate early promoter, forward primer",NA,signagen
+CRE-R,"GCAAACGGACAGAAGCATTT
+","5′ end of Cre recombinase, reverse primer",NA,signagen
+CYC1,"GCGTGAATGTAAGCGTGAC
+","CYC1 transcription termination signal, reverse primer",NA,signagen
+DsRed1-C,"AGCTGGACATCACCTCCCACAACG
+","3′ end of DsRed1, forward primer",NA,signagen
+DsRed1-N,"GTACTGGAACTGGGGGGACAG
+","5′ end of DsRed1, reverse primer",NA,signagen
+EBV Reverse,"GTGGTTTGTCCAAACTCATC
+","SV40 polyA terminator, reverse primer",NA,signagen
+Ecdysone Forward,"CTCTGAATACTTTCAACAAGTTAC
+","Drosophila heat shock promoter, forward primer",NA,signagen
+EF-1a Forward,"TCAAGCCTCAGACAGTGGTTC
+","Human elongation factor-1a promoter, forward primer",NA,signagen
+EGFP-C,"CATGGTCCTGCTGGAGTTCGTG
+","3′ end of EGFP, forward primer",NA,signagen
+EGFP-N,"CGTCGCCGTCCAGCTCGACCAG
+","5′ end of EGFP, reverse primer",NA,signagen
+EXFP-R,"GTCTTGTAGTTGCCGTCGTC
+","For distinguishing EGFP vs ECFP vs EYFP, reverse primer",NA,signagen
+F1ori-F,"GTGGACTCTTGTTCCAAACTGG
+","F1 origin, forward primer",NA,signagen
+GAL1,"AATATACCTCTATACTTTAACGTC
+","S. cerevisiae GAL1 promoter, forward primer",NA,signagen
+Gal10pro-F,"GGTGGTAATGCCATGTAATATG
+","S. cerevisiae GAL10 promoter, forward primer",NA,signagen
+Gal4 N-term,"GAGTAGTAACAAAGGTCAA
+","3′ end of Gal4 DNA binding domain, forward primer",NA,signagen
+Gal4-AD,"AATACCACTACAATGGAT
+","3′ end of Gal4 activation domain, forward primer",NA,signagen
+GFP-F,"GGTCCTTCTTGAGTTTGTAAC
+","3′ end of GFP, forward primer",NA,signagen
+GFP-R,"CCATCTAATTCAACAAGAATTGGGACAAC
+","5′ end of GFP, reverse primer",NA,signagen
+GPDpro-F,"CGGTAGGTATTGATTGTAATTCTG
+","S. cerevisiae GPD promoter, forward primer",NA,signagen
+GW-3′,"GCATGATGACCACCGATATG
+","3′ end of Gateway cassette, forward primer",NA,signagen
+GW-5′,"AATCTCGCCGGATCCTAACT
+","5′ end of Gateway cassette, reverse primer",NA,signagen
+H1,"TCGCTATGTGTTCTGGGAAA
+","Human H1 promoter, forward primer",NA,signagen
+HA-F,"TACCCATACGACGTCCCAGA
+","HA tag, forward primer",NA,signagen
+HA-R,"TCTGGGACGTCGTATGGGTA
+","HA tag, reverse primer",NA,signagen
+HAT,"GAGGAGCACGCTCATGCCCAC
+","Histidine affinity tag, forward primer",NA,signagen
+hGH-PA-R,"CCAGCTTGGTTCCCAATAGA
+","Human growth hormone terminator, reverse primer",NA,signagen
+hrGFP-R,"TCCCCGAGTACCACTTCATC
+","hrGFP (humanized Renilla GFP), forward primer",NA,signagen
+hUBCpro-F,"TGAAGCTCCGGTTTTGAACT
+","Human Ubiquitin C (UbC) promoter, forward primer",NA,signagen
+IRES-F,"TGGCTCTCCTCAAGCGTATT
+","3′ end of IRES, forward primer",NA,signagen
+IRES-R,"CCTCACATTGCCAAAAGACG
+","5′ end of IRES, reverse primer",NA,signagen
+L4440,"AGCGAGTCAGTGAGCGAG
+","5′ of MCS in L4440 vector, forward primer",NA,signagen
+LacI-R,"GGCATACTCTGCGACATCGT
+","5′ end of LacI, reverse primer",NA,signagen
+LacZ-R,"GACAGTATCGGCCTCAGGAA
+","5′ end of LacZ, reverse primer",NA,signagen
+LexA,"CGTCAGCAGAGCTTCACCATTG
+","3′ end of LexA DNA binding domain, forward primer",NA,signagen
+LKO.1 5′,"GACTATCATATGCTTACCGT
+","Human U6 promoter, forward primer",NA,signagen
+LNCX,AGCTCGTTTAGTGAACCGTCAGATC ,"(BD Biosciences) Human CMV promoter, forward primer ",NA,signagen
+Luc-F,"AGTCAAGTAACAACCGCGA
+","3′ end of luciferase, forward primer",NA,signagen
+LucNrev,"CCTTATGCAGTTGCTCTCC
+","5′ end of luciferase, reverse primer",NA,signagen
+M13 (-21) Forward,"TGTAAAACGACGGCCAGT
+",In lacZ gene,NA,signagen
+M13 (-40),"GTTTTCCCAGTCACGAC
+",In lacZ gene,NA,signagen
+M13 Reverse,"CAGGAAACAGCTATGAC
+",In lacZ gene,NA,signagen
+M13/pUC Forward,"CCCAGTCACGACGTTGTAAAACG
+",In lacZ gene,NA,signagen
+M13/pUC Reverse,"AGCGGATAACAATTTCACACAGG
+",In lacZ gene,NA,signagen
+MBP-F,"GATGAAGCCCTGAAAGACGCGCAG
+","3′ end of maltose binding protein, forward primer",NA,signagen
+mCherry-F,"CCCCGTAATGCAGAAGAAGA
+","3′ end of mCherry, forward primer",NA,signagen
+mCherry-R,"TTGGTCACCTTCAGCTTGG
+","5′ end of mCherry, reverse primer",NA,signagen
+MT Forward,"CATCTCAGTGCAACTAAA
+","Drosophila metallothionein promoter, forward primer",NA,signagen
+MMLV-F,"ATCAGTTCGCTTCTCGCTTC
+","Moloney murine leukemia virus LTR (MoMuLV), forward primer",NA,signagen
+mPGK-F,"CATTCTGCACGCTTCAAAAG
+","Mouse PGK promoter, forward primer",NA,signagen
+MSCV,"CCCTTGAACCTCCTCGTTCGACC
+","Murine stem cell virus, forward primer",NA,signagen
+MSCV-rev,"CAGCGGGGCTGCTAAAGCGCATGC
+","Murine stem cell virus, reverse primer",NA,signagen
+MT1-F,"GCTGTCCTCTAAGCGTCACC
+","Mouse metallothionein 1 promoter, forward primer",NA,signagen
+mU6-F,"CAGCACAAAAGGAAACTCACC
+","Mouse U6 promoter, forward primer",NA,signagen
+Myc,GCATCAATGCAGAAGCTGATCTCA,"(BD Biosciences)  Myc tag, forward primer",NA,signagen
+Neo-F,"CGTTGGCTACCCGTGATATT
+","3′ end of neomycin resistance gene, forward primer",NA,signagen
+Neo-R,"GCCCAGTCATAGCCGAATAG
+","5′ end of neomycin resistance gene, reverse primer",NA,signagen
+NOS-F,"GCGTTCAAAAGTCGCCTAAG
+","Nopaline synthase promoter, forward primer",NA,signagen
+Nmt1-F,"GCAATGTGCAGCGAAACTAA
+","S. pombe nmt1 promoter, forward primer",NA,signagen
+OpIE2 Forward,"CGCAACGATCTGGTAAACAC 
+","(Invitrogen) OpIE2 promoter, forward primer",NA,signagen
+pACYC-F,"TGAAGTCAGCCCCATACGAT
+","p15A origin, forward primer",NA,signagen
+pAd-CMV,"GCTAGAGATCTGGTACCGTC
+",For cloning sites after SalI in pAd-CMV vector,NA,signagen
+pBABE 3′,"ACCCTAACTGACACACATTCC
+","(Weinberg Lab) SV40 enhancer, 3′ of MCS in pBABE vectors, reverse primer",NA,signagen
+pBABE 5′,"CTTTATCCAGCCCTCAC
+"," (Weinberg Lab) Psi packaging signal, 5′ of MCS in pBABE vectors, forward primer",NA,signagen
+pBAD Forward,"ATGCCATAGCATTTTTATCC 
+","(Invitrogen) For vectors with E. coli araBAD promoter, forward primer",NA,signagen
+pBAD Reverse,"GATTTAATCTGTATCAGG
+"," (Invitrogen) For vectors with E. coli araBAD promoter, reverse primer",NA,signagen
+pBluescriptKS,"TCGAGGTCGACGGTATC
+",For pBluescript vector,NA,signagen
+pBluescriptSK,"TCTAGAACTAGTGGATC
+",For pBluescript vector,NA,signagen
+pBMN 5′,"GCTTGGATACACGCCGC
+","MMLV sequence, for inserts in pBMN retroviral vector",NA,signagen
+pBR322ori-F,"GGGAAACGCCTGGTATCTTT
+","pBRS322 origin, forward primer",NA,signagen
+pBRforBam,"CTTGGAGCCACTATCGAC
+","In pBR322 tet region, upstream of BamHI, forward primer",NA,signagen
+pBRforEco,"AATAGGCGTATCACGAGGC
+","In pBR322, upsteam of EcoRI site, forward primer",NA,signagen
+pBRrevBam,"GGTGATGTCGGCGATATAGG
+","In pBR322 tet region, downstream of BamHI, reverse primer",NA,signagen
+pCAG-F,"GCAACGTGCTGGTTATTGTG
+","Rabbit beta-globin intron, for pCAG plasmids, forward primer",NA,signagen
+pCasper-F,"GGGTTTTATTAACTTACAT
+","5′ end of Drosophila mini-white gene, reverse primer",NA,signagen
+pCasper-hs,"GCAACTACTGAAATCTGCCAAG
+","Drosophila Hsp70 promoter, forward primer",NA,signagen
+pcDL-F,"GTTGCCTTTACTTCTAGGCCT
+","5′ of EcoRI site in pcDL vector, forward primer",NA,signagen
+pENTR-F,"CTACAAACTCTTCCTGTTAGTTAG
+","5′ of attL1 in pENTR vector, forward primer",NA,signagen
+pENTR-R,"ATGGCTCATAACACCCCTTG
+","3′ of attL2 in pENTR vector, reverse primer",NA,signagen
+pGEX 3′,"CCGGGAGCTGCATGTGTCAGAGG
+","3′ of MCS in pGEX vectors, reverse primer",NA,signagen
+pGEX 5′,"GGGCTGGCAAGCCACGTTTGGTG
+","3′ end of glutathione-S-transferase, forward primer",NA,signagen
+pGP704-R,"AACAAGCCAGGGATGTAACG
+","R6K gamma origin, 3′ of MCS in pGP704 vector, reverse primer",NA,signagen
+pHybLex Reverse,"GAGTCACTTTAAAATTTGTATACAC
+","ADH terminator, reverse primer",NA,signagen
+pLTet-F,"ACTGAGCACATCAGCAGGAC
+","Lambda phage early leftward (pL) promoter, forward primer",NA,signagen
+pLXSN 5′,"CCCTTGAACCTCCTCGTTCGACC
+","Murine stem cell virus, same as MSCV, forward primer",NA,signagen
+pMRB101-F,"AAGATGCAGGCAGCTGAGTT
+","HCMV major immediate-early protein (IE), forward primer",NA,signagen
+pMT2-F,"TTGCCTTTCTCTCCACAGGT
+","3′ end of synthetic intron, forward primer",NA,signagen
+pMX-S1811,"GACGGCATCGCAGCTTGGATACAC
+","MMLV sequence, 5′ of MCS in pMXs vector, forward primer",NA,signagen
+Polyhedrin forward,"AAATGATAACCATCTCGC
+","Polyhedrin promoter, forward primer",NA,signagen
+Polyhedrin reverse,"GTCCAAGTTTCCCTG
+","For baculovirus vector with polyhedrin promoter, reverse primer",NA,signagen
+pQE promoter,"CCCGAAAAGTGCCACCTG
+","5′ of MCS in pQE vectors, forward primer",NA,signagen
+pREP Forward,"GCTCGATACAATAAACGCC
+","Rous sarcoma virus (RSV) promoter, forward primer",NA,signagen
+pRS-marker,"CGGCATCAGAGCAGATTGTA
+",To sequence yeast selectable marker in pRS vectors,NA,signagen
+Pry1,"CTTAGCATGTCCGTGGGGTTTGAAT
+","PZ P-element, reverse primer",NA,signagen
+pTrcHis Forward,"GAGGTATATATTAATGTATCG
+","5′ of MCS in pTrcHis vector, forward primer",NA,signagen
+pTrcHis Reverse,"GATTTAATCTGTATCAGG
+","3′ of MCS in pTrcHis vector, same as pBAD-R, reverse primer",NA,signagen
+Puro-F,"GCAACCTCCCCTTCTACGAGC
+","3′ end of puromycin resistance gene, forward primer",NA,signagen
+pZIP,"TCCTTTCCAGCGAGGTTCTA
+","Murine leukemia virus (MuLV), reverse primer",NA,signagen
+RCAS-F,"ACATGGGTGGTGGTATAGCGCTTGCG
+","3′ of Rous sarcoma virus (RSV) env gene, forward primer",NA,signagen
+Rluc-F,"CCAGGATTCTTTTCCAATGC
+","3′ end of Renilla luciferase, forward primer",NA,signagen
+RVprimer3,"CTAGCAAAATAGGCTGTCCC
+","5′ of MCS in pGL3 vector, forward primer",NA,signagen
+SFFV-F,"ATTGATTGACTGCCCACCTC
+","Spleen focus forming virus 5′ LTR, forward primer",NA,signagen
+SP6,"ATTTAGGTGACACTATAG
+","SP6 promoter, forward primer",NA,signagen
+SV40pA-R,"GAAATTTGTGATGCTATTGC
+","SV40 polyA, reverse primer",NA,signagen
+SV40pro-F,"TATTTATGCAGAGGCCGAGG
+","SV40 promoter/origin, forward primer",NA,signagen
+SV40-spliceR,"CACAAAGATCCGGACCAAAG
+","SV40 splice sequence, reverse primer",NA,signagen
+T3,"GCAATTAACCCTCACTAAAGG
+","T3 promoter, forward primer",NA,signagen
+T7,"TAATACGACTCACTATAGGG
+","T7 promoter, forward primer",NA,signagen
+T7 Terminal,"GCTAGTTATTGCTCAGCGG
+","T7 terminator, reverse primer",NA,signagen
+Tac promoter,"GAGCGGATAACAATTTCACACAGG
+","Tac promoter, forward primer",NA,signagen
+tdTomato-Fwd,"CTGTTCCTGTACGGCATGG
+","3′ end of tdTomato, forward primer",NA,signagen
+tdTomato-Rev,"TCTTTGATGACGGCCATGT
+","5′ end of tdTomato, reverse primer",NA,signagen
+Tet-R,"GGCGAGTTTACGGGTTGTTA
+","5′ end of tetracycline resistance gene, reverse primer",NA,signagen
+TK-pA-R,"TTGTCTCCTTCCGTGTTTCA
+","Thymidine kinase polyA, reverse primer",NA,signagen
+Tn7-end,"GGGGTGGAAATGGAGTTTTT
+",Bacterial transposon Tn7,NA,signagen
+TRC-F,"CAAGGCTGTTAGAGAGATAATTGGA
+","Human U6 promoter, forward primer",NA,signagen
+Ubx-F,"AACTCGTACTTTGAACAGGC
+","Drosophila Ultrabithorax gene, forward primer",NA,signagen
+V5 Reverse,"ACCGAGGAGAGGGTTAGGGAT
+","V5 epitope, reverse primer",NA,signagen
+WPRE-R,"CATAGCGTAAAAGGAGCAACA
+","5′ end of WPRE, reverse primer",NA,signagen
+XBG-R,"GACTCCATTCGGGTGTTC
+","Xenopus beta-globin 3’UTR, reverse primer",NA,signagen
+XEF1a,"TTTCGCCCTAACTTCGTGAT
+","Xenopus EF1 alpha enhancer/promoter, forward primer",NA,signagen
+Xpress Forward,"TATGGCTAGCATGACTGGT
+","Xpress epitope, forward primer",NA,signagen

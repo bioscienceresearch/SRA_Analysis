@@ -1,0 +1,8 @@
+Primer,Sequence,Description,Comment,Source
+M13 forward (-20),GTAAAACGACGGCCAGT,M13 forward sequencing primer (-20),NA,https://openwetware.org/wiki/Common_primer_sequences
+M13 forward (-47),CGCCAGGGTTTTCCCAGTCACGAC,M13 forward sequencing primer (-47),NA,https://openwetware.org/wiki/Common_primer_sequences
+M13 reverse (-24),AACAGCTATGACCATG,M13 reverse sequencing primer: (-24),NA,https://openwetware.org/wiki/Common_primer_sequences
+M13 reverse (-48),AGCGGATAACAATTTCACACAGGA,M13 reverse sequencing primer: (-48),NA,https://openwetware.org/wiki/Common_primer_sequences
+SP6 primer,ATTTAGGTGACACTATAG,SP6 universal primer,NA,https://openwetware.org/wiki/Common_primer_sequences
+VF2,tgccacctgacgtctaagaa,VF2,NA,https://openwetware.org/wiki/Common_primer_sequences
+VR,attaccgcctttgagtgagc,VR,NA,https://openwetware.org/wiki/Common_primer_sequences

@@ -1,135 +1,135 @@
-Primer,Sequence,Description
-3'AOX1,GCAAATGGCATTCTGACATCC,"For Pichia vectors with AOX1 terminator, reverse primer"
-5'AOX1,GACTGGTTCCAATTGACAAGC,"For Pichia vectors with AOX1 promoter, forward primer"
-35S promoter,CTATCCTTCGCAAGACCCTTC,"CaMV 35S promoter, forward primer"
-AC5,ACACAAAGCCGCTCCATCAG,"Drosophila Actin 5C promoter, forward primer"
-Alpha-factor,TACTATTGCCAGCATTGCTGC,"Alpha factor signal sequence, forward primer"
-Amp-R,ATAATACCGCGCCACATAGC,"5' end of ampicillin resistance gene, reverse primer"
-AUG1 Forward,CAATTTACATCTTTATTTATTAACG,"For Pichia vectors with AUG1 promoter, forward primer"
-AUG1 Reverse,GAAGAGAAAAACATTAGTTGGC,"For Pichia vectors with AUG1 promoter, reverse primer"
-BGH Reverse,TAGAAGGCACAGTCGAGG,"Bovine growth hormone terminator, reverse primer"
-Bglob-intron-F,CTGGTCATCATCCTGCCTTT,"Rabbit beta-globin intron, forward primer"
-Bglob-intron-R,TTTGCCCCCTCCATATAACA,"Rabbit beta-globin intron, reverse primer"
-Bglob-pA-R,TTTTGGCAGAGGGAAAAAGA,"Rabbit beta-globin polyA region, reverse primer"
-CAT-R,GCAACTGACTGAAATGCCTC,"5' end of chloramphenicol resistance gene, reverse primer"
-CMV Forward,CGCAAATGGGCGGTAGGCGTG,"Human CMV immediate early promoter, forward primer"
-CRE-R,GCAAACGGACAGAAGCATTT,"5' end of Cre recombinase, reverse primer"
-CYC1,GCGTGAATGTAAGCGTGAC,"CYC1 transcription termination signal, reverse primer"
-DsRed1-C,AGCTGGACATCACCTCCCACAACG,"3' end of DsRed1, forward primer"
-DsRed1-N,GTACTGGAACTGGGGGGACAG,"5' end of DsRed1, reverse primer"
-EBV Reverse,GTGGTTTGTCCAAACTCATC,"SV40 polyA terminator, reverse primer"
-Ecdysone Forward,CTCTGAATACTTTCAACAAGTTAC,"Drosophila heat shock promoter, forward primer"
-EF-1a Forward,TCAAGCCTCAGACAGTGGTTC,"Human elongation factor-1a promoter, forward primer"
-EGFP-C,CATGGTCCTGCTGGAGTTCGTG,"3' end of EGFP, forward primer"
-EGFP-N,CGTCGCCGTCCAGCTCGACCAG,"5' end of EGFP, reverse primer"
-EXFP-R,GTCTTGTAGTTGCCGTCGTC,"For distinguishing EGFP vs ECFP vs EYFP, reverse primer"
-F1ori-F,GTGGACTCTTGTTCCAAACTGG,"F1 origin, forward primer"
-GAL1,AATATACCTCTATACTTTAACGTC,"S. cerevisiae GAL1 promoter, forward primer"
-Gal10pro-F,GGTGGTAATGCCATGTAATATG,"S. cerevisiae GAL10 promoter, forward primer"
-Gal4 N-term,GAGTAGTAACAAAGGTCAA,"3' end of Gal4 DNA binding domain, forward primer"
-Gal4-AD,AATACCACTACAATGGAT,"3' end of Gal4 activation domain, forward primer"
-GFP-F,GGTCCTTCTTGAGTTTGTAAC,"3' end of GFP, forward primer"
-GFP-R,CCATCTAATTCAACAAGAATTGGGACAAC,"5' end of GFP, reverse primer"
-GPDpro-F,CGGTAGGTATTGATTGTAATTCTG,"S. cerevisiae GPD promoter, forward primer"
-GW-3',GCATGATGACCACCGATATG,"3' end of Gateway cassette, forward primer"
-GW-5',AATCTCGCCGGATCCTAACT,"5' end of Gateway cassette, reverse primer"
-H1,TCGCTATGTGTTCTGGGAAA,"Human H1 promoter, forward primer"
-HA-F,TACCCATACGACGTCCCAGA,"HA tag, forward primer"
-HA-R,TCTGGGACGTCGTATGGGTA,"HA tag, reverse primer"
-HAT,GAGGAGCACGCTCATGCCCAC,"Histidine affinity tag, forward primer"
-hGH-PA-R,CCAGCTTGGTTCCCAATAGA,"Human growth hormone terminator, reverse primer"
-hrGFP-R,TCCCCGAGTACCACTTCATC,"hrGFP (humanized Renilla GFP), forward primer"
-hUBCpro-F,TGAAGCTCCGGTTTTGAACT,"Human Ubiquitin C (UbC) promoter, forward primer"
-IRES-F,TGGCTCTCCTCAAGCGTATT,"3' end of IRES, forward primer"
-IRES-R,CCTCACATTGCCAAAAGACG,"5' end of IRES, reverse primer"
-L4440,AGCGAGTCAGTGAGCGAG,"5' of MCS in L4440 vector, forward primer"
-LacI-R,GGCATACTCTGCGACATCGT,"5' end of LacI, reverse primer"
-LacZ-R,GACAGTATCGGCCTCAGGAA,"5' end of LacZ, reverse primer"
-LexA,CGTCAGCAGAGCTTCACCATTG,"3' end of LexA DNA binding domain, forward primer"
-LKO.1 5',GACTATCATATGCTTACCGT,"Human U6 promoter, forward primer"
-LNCX,AGCTCGTTTAGTGAACCGTCAGATC,"Human CMV promoter, forward primer"
-Luc-F,AGTCAAGTAACAACCGCGA,"3' end of luciferase, forward primer"
-LucNrev,CCTTATGCAGTTGCTCTCC,"5' end of luciferase, reverse primer"
-M13 (-21) Forward,TGTAAAACGACGGCCAGT,In lacZ gene
-M13 (-40),GTTTTCCCAGTCACGAC,In lacZ gene
-M13 Reverse,CAGGAAACAGCTATGAC,In lacZ gene
-M13/pUC Forward,CCCAGTCACGACGTTGTAAAACG,In lacZ gene
-M13/pUC Reverse,AGCGGATAACAATTTCACACAGG,In lacZ gene
-MBP-F,GATGAAGCCCTGAAAGACGCGCAG,"3' end of maltose binding protein, forward primer"
-mCherry-F,CCCCGTAATGCAGAAGAAGA,"3' end of mCherry, forward primer"
-mCherry-R,TTGGTCACCTTCAGCTTGG,"5' end of mCherry, reverse primer"
-MT Forward,CATCTCAGTGCAACTAAA,"Drosophila metallothionein promoter, forward primer"
-MMLV-F,ATCAGTTCGCTTCTCGCTTC,"Moloney murine leukemia virus LTR (MoMuLV), forward primer"
-mPGK-F,CATTCTGCACGCTTCAAAAG,"Mouse PGK promoter, forward primer"
-MSCV,CCCTTGAACCTCCTCGTTCGACC,"Murine stem cell virus, forward primer"
-MSCV-rev,CAGCGGGGCTGCTAAAGCGCATGC,"Murine stem cell virus, reverse primer"
-MT1-F,GCTGTCCTCTAAGCGTCACC,"Mouse metallothionein 1 promoter, forward primer"
-mU6-F,CAGCACAAAAGGAAACTCACC,"Mouse U6 promoter, forward primer"
-Myc,GCATCAATGCAGAAGCTGATCTCA,"Myc tag, forward primer"
-Neo-F,CGTTGGCTACCCGTGATATT,"3' end of neomycin resistance gene, forward primer"
-Neo-R,GCCCAGTCATAGCCGAATAG,"5' end of neomycin resistance gene, reverse primer"
-NOS-F,GCGTTCAAAAGTCGCCTAAG,"Nopaline synthase promoter, forward primer"
-Nmt1-F,GCAATGTGCAGCGAAACTAA,"S. pombe nmt1 promoter, forward primer"
-OpIE2 Forward,CGCAACGATCTGGTAAACAC,"OpIE2 promoter, forward primer"
-pACYC-F,TGAAGTCAGCCCCATACGAT,"p15A origin, forward primer"
-pAd-CMV,GCTAGAGATCTGGTACCGTC,For cloning sites after SalI in pAd-CMV vector
-pBABE 3',ACCCTAACTGACACACATTCC,"SV40 enhancer, 3' of MCS in pBABE vectors, reverse primer"
-pBABE 5',CTTTATCCAGCCCTCAC,"Psi packaging signal, 5' of MCS in pBABE vectors, forward primer"
-pBAD Forward,ATGCCATAGCATTTTTATCC,"For vectors with E. coli araBAD promoter, forward primer"
-pBAD Reverse,GATTTAATCTGTATCAGG,"For vectors with E. coli araBAD promoter, reverse primer"
-pBluescriptKS,TCGAGGTCGACGGTATC,For pBluescript vector
-pBluescriptSK,TCTAGAACTAGTGGATC,For pBluescript vector
-pBMN 5',GCTTGGATACACGCCGC,"MMLV sequence, for inserts in pBMN retroviral vector"
-pBR322ori-F,GGGAAACGCCTGGTATCTTT,"pBRS322 origin, forward primer"
-pBRforBam,CTTGGAGCCACTATCGAC,"In pBR322 tet region, upstream of BamHI, forward primer"
-pBRforEco,AATAGGCGTATCACGAGGC,"In pBR322, upsteam of EcoRI site, forward primer"
-pBRrevBam,GGTGATGTCGGCGATATAGG,"In pBR322 tet region, downstream of BamHI, reverse primer"
-pCAG-F,GCAACGTGCTGGTTATTGTG,"Rabbit beta-globin intron, for pCAG plasmids, forward primer"
-pCasper-F,GGGTTTTATTAACTTACAT,"5' end of Drosophila mini-white gene, reverse primer"
-pCasper-hs,GCAACTACTGAAATCTGCCAAG,"Drosophila Hsp70 promoter, forward primer"
-pcDL-F,GTTGCCTTTACTTCTAGGCCT,"5' of EcoRI site in pcDL vector, forward primer"
-pENTR-F,CTACAAACTCTTCCTGTTAGTTAG,"5' of attL1 in pENTR vector, forward primer"
-pENTR-R,ATGGCTCATAACACCCCTTG,"3' of attL2 in pENTR vector, reverse primer"
-pGEX 3',CCGGGAGCTGCATGTGTCAGAGG,"3' of MCS in pGEX vectors, reverse primer"
-pGEX 5',GGGCTGGCAAGCCACGTTTGGTG,"3' end of glutathione-S-transferase, forward primer"
-pGP704-R,AACAAGCCAGGGATGTAACG,"R6K gamma origin, 3' of MCS in pGP704 vector, reverse primer"
-pHybLex Reverse,GAGTCACTTTAAAATTTGTATACAC,"ADH terminator, reverse primer"
-pLTet-F,ACTGAGCACATCAGCAGGAC,"Lambda phage early leftward (pL) promoter, forward primer"
-pLXSN 5',CCCTTGAACCTCCTCGTTCGACC,"Murine stem cell virus, same as MSCV, forward primer"
-pMRB101-F,AAGATGCAGGCAGCTGAGTT,"HCMV major immediate-early protein (IE), forward primer"
-pMT2-F,TTGCCTTTCTCTCCACAGGT,"3' end of synthetic intron, forward primer"
-pMX-S1811,GACGGCATCGCAGCTTGGATACAC,"MMLV sequence, 5' of MCS in pMXs vector, forward primer"
-Polyhedrin forward,AAATGATAACCATCTCGC,"Polyhedrin promoter, forward primer"
-Polyhedrin reverse,GTCCAAGTTTCCCTG,"For baculovirus vector with polyhedrin promoter, reverse primer"
-pQE promoter,CCCGAAAAGTGCCACCTG,"5' of MCS in pQE vectors, forward primer"
-pREP Forward,GCTCGATACAATAAACGCC,"Rous sarcoma virus (RSV) promoter, forward primer"
-pRS-marker,CGGCATCAGAGCAGATTGTA,To sequence yeast selectable marker in pRS vectors
-Pry1,CTTAGCATGTCCGTGGGGTTTGAAT,"PZ P-element, reverse primer"
-pTrcHis Forward,GAGGTATATATTAATGTATCG,"5' of MCS in pTrcHis vector, forward primer"
-pTrcHis Reverse,GATTTAATCTGTATCAGG,"3' of MCS in pTrcHis vector, same as pBAD-R, reverse primer"
-Puro-F,GCAACCTCCCCTTCTACGAGC,"3' end of puromycin resistance gene, forward primer"
-pZIP,TCCTTTCCAGCGAGGTTCTA,"Murine leukemia virus (MuLV), reverse primer"
-RCAS-F,ACATGGGTGGTGGTATAGCGCTTGCG,"3' of Rous sarcoma virus (RSV) env gene, forward primer"
-Rluc-F,CCAGGATTCTTTTCCAATGC,"3' end of Renilla luciferase, forward primer"
-RVprimer3,CTAGCAAAATAGGCTGTCCC,"5' of MCS in pGL3 vector, forward primer"
-SFFV-F,ATTGATTGACTGCCCACCTC,"Spleen focus forming virus 5' LTR, forward primer"
-SP6,ATTTAGGTGACACTATAG,"SP6 promoter, forward primer"
-SV40pA-R,GAAATTTGTGATGCTATTGC,"SV40 polyA, reverse primer"
-SV40pro-F,TATTTATGCAGAGGCCGAGG,"SV40 promoter/origin, forward primer"
-SV40-spliceR,CACAAAGATCCGGACCAAAG,"SV40 splice sequence, reverse primer"
-T3,GCAATTAACCCTCACTAAAGG,"T3 promoter, forward primer"
-T7,TAATACGACTCACTATAGGG,"T7 promoter, forward primer"
-T7 Terminal,GCTAGTTATTGCTCAGCGG,"T7 terminator, reverse primer"
-Tac promoter,GAGCGGATAACAATTTCACACAGG,"Tac promoter, forward primer"
-tdTomato-Fwd,CTGTTCCTGTACGGCATGG,"3' end of tdTomato, forward primer"
-tdTomato-Rev,TCTTTGATGACGGCCATGT,"5' end of tdTomato, reverse primer"
-Tet-R,GGCGAGTTTACGGGTTGTTA,"5' end of tetracycline resistance gene, reverse primer"
-TK-pA-R,TTGTCTCCTTCCGTGTTTCA,"Thymidine kinase polyA, reverse primer"
-Tn7-end,GGGGTGGAAATGGAGTTTTT,Bacterial transposon Tn7
-TRC-F,CAAGGCTGTTAGAGAGATAATTGGA,"Human U6 promoter, forward primer"
-Ubx-F,AACTCGTACTTTGAACAGGC,"Drosophila Ultrabithorax gene, forward primer"
-V5 Reverse,ACCGAGGAGAGGGTTAGGGAT,"V5 epitope, reverse primer"
-WPRE-R,CATAGCGTAAAAGGAGCAACA,"5' end of WPRE, reverse primer"
-XBG-R,GACTCCATTCGGGTGTTC,"Xenopus beta-globin 3'UTR, reverse primer"
-XEF1a,TTTCGCCCTAACTTCGTGAT,"Xenopus EF1 alpha enhancer/promoter, forward primer"
-Xpress Forward,TATGGCTAGCATGACTGGT,"Xpress epitope, forward primer"
+Primer,Sequence,Description,Comment,Source
+3'AOX1,GCAAATGGCATTCTGACATCC,"For Pichia vectors with AOX1 terminator, reverse primer",NA,addgene
+5'AOX1,GACTGGTTCCAATTGACAAGC,"For Pichia vectors with AOX1 promoter, forward primer",NA,addgene
+35S promoter,CTATCCTTCGCAAGACCCTTC,"CaMV 35S promoter, forward primer",NA,addgene
+AC5,ACACAAAGCCGCTCCATCAG,"Drosophila Actin 5C promoter, forward primer",NA,addgene
+Alpha-factor,TACTATTGCCAGCATTGCTGC,"Alpha factor signal sequence, forward primer",NA,addgene
+Amp-R,ATAATACCGCGCCACATAGC,"5' end of ampicillin resistance gene, reverse primer",NA,addgene
+AUG1 Forward,CAATTTACATCTTTATTTATTAACG,"For Pichia vectors with AUG1 promoter, forward primer",NA,addgene
+AUG1 Reverse,GAAGAGAAAAACATTAGTTGGC,"For Pichia vectors with AUG1 promoter, reverse primer",NA,addgene
+BGH Reverse,TAGAAGGCACAGTCGAGG,"Bovine growth hormone terminator, reverse primer",NA,addgene
+Bglob-intron-F,CTGGTCATCATCCTGCCTTT,"Rabbit beta-globin intron, forward primer",NA,addgene
+Bglob-intron-R,TTTGCCCCCTCCATATAACA,"Rabbit beta-globin intron, reverse primer",NA,addgene
+Bglob-pA-R,TTTTGGCAGAGGGAAAAAGA,"Rabbit beta-globin polyA region, reverse primer",NA,addgene
+CAT-R,GCAACTGACTGAAATGCCTC,"5' end of chloramphenicol resistance gene, reverse primer",NA,addgene
+CMV Forward,CGCAAATGGGCGGTAGGCGTG,"Human CMV immediate early promoter, forward primer",NA,addgene
+CRE-R,GCAAACGGACAGAAGCATTT,"5' end of Cre recombinase, reverse primer",NA,addgene
+CYC1,GCGTGAATGTAAGCGTGAC,"CYC1 transcription termination signal, reverse primer",NA,addgene
+DsRed1-C,AGCTGGACATCACCTCCCACAACG,"3' end of DsRed1, forward primer",NA,addgene
+DsRed1-N,GTACTGGAACTGGGGGGACAG,"5' end of DsRed1, reverse primer",NA,addgene
+EBV Reverse,GTGGTTTGTCCAAACTCATC,"SV40 polyA terminator, reverse primer",NA,addgene
+Ecdysone Forward,CTCTGAATACTTTCAACAAGTTAC,"Drosophila heat shock promoter, forward primer",NA,addgene
+EF-1a Forward,TCAAGCCTCAGACAGTGGTTC,"Human elongation factor-1a promoter, forward primer",NA,addgene
+EGFP-C,CATGGTCCTGCTGGAGTTCGTG,"3' end of EGFP, forward primer",NA,addgene
+EGFP-N,CGTCGCCGTCCAGCTCGACCAG,"5' end of EGFP, reverse primer",NA,addgene
+EXFP-R,GTCTTGTAGTTGCCGTCGTC,"For distinguishing EGFP vs ECFP vs EYFP, reverse primer",NA,addgene
+F1ori-F,GTGGACTCTTGTTCCAAACTGG,"F1 origin, forward primer",NA,addgene
+GAL1,AATATACCTCTATACTTTAACGTC,"S. cerevisiae GAL1 promoter, forward primer",NA,addgene
+Gal10pro-F,GGTGGTAATGCCATGTAATATG,"S. cerevisiae GAL10 promoter, forward primer",NA,addgene
+Gal4 N-term,GAGTAGTAACAAAGGTCAA,"3' end of Gal4 DNA binding domain, forward primer",NA,addgene
+Gal4-AD,AATACCACTACAATGGAT,"3' end of Gal4 activation domain, forward primer",NA,addgene
+GFP-F,GGTCCTTCTTGAGTTTGTAAC,"3' end of GFP, forward primer",NA,addgene
+GFP-R,CCATCTAATTCAACAAGAATTGGGACAAC,"5' end of GFP, reverse primer",NA,addgene
+GPDpro-F,CGGTAGGTATTGATTGTAATTCTG,"S. cerevisiae GPD promoter, forward primer",NA,addgene
+GW-3',GCATGATGACCACCGATATG,"3' end of Gateway cassette, forward primer",NA,addgene
+GW-5',AATCTCGCCGGATCCTAACT,"5' end of Gateway cassette, reverse primer",NA,addgene
+H1,TCGCTATGTGTTCTGGGAAA,"Human H1 promoter, forward primer",NA,addgene
+HA-F,TACCCATACGACGTCCCAGA,"HA tag, forward primer",NA,addgene
+HA-R,TCTGGGACGTCGTATGGGTA,"HA tag, reverse primer",NA,addgene
+HAT,GAGGAGCACGCTCATGCCCAC,"Histidine affinity tag, forward primer",NA,addgene
+hGH-PA-R,CCAGCTTGGTTCCCAATAGA,"Human growth hormone terminator, reverse primer",NA,addgene
+hrGFP-R,TCCCCGAGTACCACTTCATC,"hrGFP (humanized Renilla GFP), forward primer",NA,addgene
+hUBCpro-F,TGAAGCTCCGGTTTTGAACT,"Human Ubiquitin C (UbC) promoter, forward primer",NA,addgene
+IRES-F,TGGCTCTCCTCAAGCGTATT,"3' end of IRES, forward primer",NA,addgene
+IRES-R,CCTCACATTGCCAAAAGACG,"5' end of IRES, reverse primer",NA,addgene
+L4440,AGCGAGTCAGTGAGCGAG,"5' of MCS in L4440 vector, forward primer",NA,addgene
+LacI-R,GGCATACTCTGCGACATCGT,"5' end of LacI, reverse primer",NA,addgene
+LacZ-R,GACAGTATCGGCCTCAGGAA,"5' end of LacZ, reverse primer",NA,addgene
+LexA,CGTCAGCAGAGCTTCACCATTG,"3' end of LexA DNA binding domain, forward primer",NA,addgene
+LKO.1 5',GACTATCATATGCTTACCGT,"Human U6 promoter, forward primer",NA,addgene
+LNCX,AGCTCGTTTAGTGAACCGTCAGATC,"Human CMV promoter, forward primer",NA,addgene
+Luc-F,AGTCAAGTAACAACCGCGA,"3' end of luciferase, forward primer",NA,addgene
+LucNrev,CCTTATGCAGTTGCTCTCC,"5' end of luciferase, reverse primer",NA,addgene
+M13 (-21) Forward,TGTAAAACGACGGCCAGT,In lacZ gene,NA,addgene
+M13 (-40),GTTTTCCCAGTCACGAC,In lacZ gene,NA,addgene
+M13 Reverse,CAGGAAACAGCTATGAC,In lacZ gene,NA,addgene
+M13/pUC Forward,CCCAGTCACGACGTTGTAAAACG,In lacZ gene,NA,addgene
+M13/pUC Reverse,AGCGGATAACAATTTCACACAGG,In lacZ gene,NA,addgene
+MBP-F,GATGAAGCCCTGAAAGACGCGCAG,"3' end of maltose binding protein, forward primer",NA,addgene
+mCherry-F,CCCCGTAATGCAGAAGAAGA,"3' end of mCherry, forward primer",NA,addgene
+mCherry-R,TTGGTCACCTTCAGCTTGG,"5' end of mCherry, reverse primer",NA,addgene
+MT Forward,CATCTCAGTGCAACTAAA,"Drosophila metallothionein promoter, forward primer",NA,addgene
+MMLV-F,ATCAGTTCGCTTCTCGCTTC,"Moloney murine leukemia virus LTR (MoMuLV), forward primer",NA,addgene
+mPGK-F,CATTCTGCACGCTTCAAAAG,"Mouse PGK promoter, forward primer",NA,addgene
+MSCV,CCCTTGAACCTCCTCGTTCGACC,"Murine stem cell virus, forward primer",NA,addgene
+MSCV-rev,CAGCGGGGCTGCTAAAGCGCATGC,"Murine stem cell virus, reverse primer",NA,addgene
+MT1-F,GCTGTCCTCTAAGCGTCACC,"Mouse metallothionein 1 promoter, forward primer",NA,addgene
+mU6-F,CAGCACAAAAGGAAACTCACC,"Mouse U6 promoter, forward primer",NA,addgene
+Myc,GCATCAATGCAGAAGCTGATCTCA,"Myc tag, forward primer",NA,addgene
+Neo-F,CGTTGGCTACCCGTGATATT,"3' end of neomycin resistance gene, forward primer",NA,addgene
+Neo-R,GCCCAGTCATAGCCGAATAG,"5' end of neomycin resistance gene, reverse primer",NA,addgene
+NOS-F,GCGTTCAAAAGTCGCCTAAG,"Nopaline synthase promoter, forward primer",NA,addgene
+Nmt1-F,GCAATGTGCAGCGAAACTAA,"S. pombe nmt1 promoter, forward primer",NA,addgene
+OpIE2 Forward,CGCAACGATCTGGTAAACAC,"OpIE2 promoter, forward primer",NA,addgene
+pACYC-F,TGAAGTCAGCCCCATACGAT,"p15A origin, forward primer",NA,addgene
+pAd-CMV,GCTAGAGATCTGGTACCGTC,For cloning sites after SalI in pAd-CMV vector,NA,addgene
+pBABE 3',ACCCTAACTGACACACATTCC,"SV40 enhancer, 3' of MCS in pBABE vectors, reverse primer",NA,addgene
+pBABE 5',CTTTATCCAGCCCTCAC,"Psi packaging signal, 5' of MCS in pBABE vectors, forward primer",NA,addgene
+pBAD Forward,ATGCCATAGCATTTTTATCC,"For vectors with E. coli araBAD promoter, forward primer",NA,addgene
+pBAD Reverse,GATTTAATCTGTATCAGG,"For vectors with E. coli araBAD promoter, reverse primer",NA,addgene
+pBluescriptKS,TCGAGGTCGACGGTATC,For pBluescript vector,NA,addgene
+pBluescriptSK,TCTAGAACTAGTGGATC,For pBluescript vector,NA,addgene
+pBMN 5',GCTTGGATACACGCCGC,"MMLV sequence, for inserts in pBMN retroviral vector",NA,addgene
+pBR322ori-F,GGGAAACGCCTGGTATCTTT,"pBRS322 origin, forward primer",NA,addgene
+pBRforBam,CTTGGAGCCACTATCGAC,"In pBR322 tet region, upstream of BamHI, forward primer",NA,addgene
+pBRforEco,AATAGGCGTATCACGAGGC,"In pBR322, upsteam of EcoRI site, forward primer",NA,addgene
+pBRrevBam,GGTGATGTCGGCGATATAGG,"In pBR322 tet region, downstream of BamHI, reverse primer",NA,addgene
+pCAG-F,GCAACGTGCTGGTTATTGTG,"Rabbit beta-globin intron, for pCAG plasmids, forward primer",NA,addgene
+pCasper-F,GGGTTTTATTAACTTACAT,"5' end of Drosophila mini-white gene, reverse primer",NA,addgene
+pCasper-hs,GCAACTACTGAAATCTGCCAAG,"Drosophila Hsp70 promoter, forward primer",NA,addgene
+pcDL-F,GTTGCCTTTACTTCTAGGCCT,"5' of EcoRI site in pcDL vector, forward primer",NA,addgene
+pENTR-F,CTACAAACTCTTCCTGTTAGTTAG,"5' of attL1 in pENTR vector, forward primer",NA,addgene
+pENTR-R,ATGGCTCATAACACCCCTTG,"3' of attL2 in pENTR vector, reverse primer",NA,addgene
+pGEX 3',CCGGGAGCTGCATGTGTCAGAGG,"3' of MCS in pGEX vectors, reverse primer",NA,addgene
+pGEX 5',GGGCTGGCAAGCCACGTTTGGTG,"3' end of glutathione-S-transferase, forward primer",NA,addgene
+pGP704-R,AACAAGCCAGGGATGTAACG,"R6K gamma origin, 3' of MCS in pGP704 vector, reverse primer",NA,addgene
+pHybLex Reverse,GAGTCACTTTAAAATTTGTATACAC,"ADH terminator, reverse primer",NA,addgene
+pLTet-F,ACTGAGCACATCAGCAGGAC,"Lambda phage early leftward (pL) promoter, forward primer",NA,addgene
+pLXSN 5',CCCTTGAACCTCCTCGTTCGACC,"Murine stem cell virus, same as MSCV, forward primer",NA,addgene
+pMRB101-F,AAGATGCAGGCAGCTGAGTT,"HCMV major immediate-early protein (IE), forward primer",NA,addgene
+pMT2-F,TTGCCTTTCTCTCCACAGGT,"3' end of synthetic intron, forward primer",NA,addgene
+pMX-S1811,GACGGCATCGCAGCTTGGATACAC,"MMLV sequence, 5' of MCS in pMXs vector, forward primer",NA,addgene
+Polyhedrin forward,AAATGATAACCATCTCGC,"Polyhedrin promoter, forward primer",NA,addgene
+Polyhedrin reverse,GTCCAAGTTTCCCTG,"For baculovirus vector with polyhedrin promoter, reverse primer",NA,addgene
+pQE promoter,CCCGAAAAGTGCCACCTG,"5' of MCS in pQE vectors, forward primer",NA,addgene
+pREP Forward,GCTCGATACAATAAACGCC,"Rous sarcoma virus (RSV) promoter, forward primer",NA,addgene
+pRS-marker,CGGCATCAGAGCAGATTGTA,To sequence yeast selectable marker in pRS vectors,NA,addgene
+Pry1,CTTAGCATGTCCGTGGGGTTTGAAT,"PZ P-element, reverse primer",NA,addgene
+pTrcHis Forward,GAGGTATATATTAATGTATCG,"5' of MCS in pTrcHis vector, forward primer",NA,addgene
+pTrcHis Reverse,GATTTAATCTGTATCAGG,"3' of MCS in pTrcHis vector, same as pBAD-R, reverse primer",NA,addgene
+Puro-F,GCAACCTCCCCTTCTACGAGC,"3' end of puromycin resistance gene, forward primer",NA,addgene
+pZIP,TCCTTTCCAGCGAGGTTCTA,"Murine leukemia virus (MuLV), reverse primer",NA,addgene
+RCAS-F,ACATGGGTGGTGGTATAGCGCTTGCG,"3' of Rous sarcoma virus (RSV) env gene, forward primer",NA,addgene
+Rluc-F,CCAGGATTCTTTTCCAATGC,"3' end of Renilla luciferase, forward primer",NA,addgene
+RVprimer3,CTAGCAAAATAGGCTGTCCC,"5' of MCS in pGL3 vector, forward primer",NA,addgene
+SFFV-F,ATTGATTGACTGCCCACCTC,"Spleen focus forming virus 5' LTR, forward primer",NA,addgene
+SP6,ATTTAGGTGACACTATAG,"SP6 promoter, forward primer",NA,addgene
+SV40pA-R,GAAATTTGTGATGCTATTGC,"SV40 polyA, reverse primer",NA,addgene
+SV40pro-F,TATTTATGCAGAGGCCGAGG,"SV40 promoter/origin, forward primer",NA,addgene
+SV40-spliceR,CACAAAGATCCGGACCAAAG,"SV40 splice sequence, reverse primer",NA,addgene
+T3,GCAATTAACCCTCACTAAAGG,"T3 promoter, forward primer",NA,addgene
+T7,TAATACGACTCACTATAGGG,"T7 promoter, forward primer",NA,addgene
+T7 Terminal,GCTAGTTATTGCTCAGCGG,"T7 terminator, reverse primer",NA,addgene
+Tac promoter,GAGCGGATAACAATTTCACACAGG,"Tac promoter, forward primer",NA,addgene
+tdTomato-Fwd,CTGTTCCTGTACGGCATGG,"3' end of tdTomato, forward primer",NA,addgene
+tdTomato-Rev,TCTTTGATGACGGCCATGT,"5' end of tdTomato, reverse primer",NA,addgene
+Tet-R,GGCGAGTTTACGGGTTGTTA,"5' end of tetracycline resistance gene, reverse primer",NA,addgene
+TK-pA-R,TTGTCTCCTTCCGTGTTTCA,"Thymidine kinase polyA, reverse primer",NA,addgene
+Tn7-end,GGGGTGGAAATGGAGTTTTT,Bacterial transposon Tn7,NA,addgene
+TRC-F,CAAGGCTGTTAGAGAGATAATTGGA,"Human U6 promoter, forward primer",NA,addgene
+Ubx-F,AACTCGTACTTTGAACAGGC,"Drosophila Ultrabithorax gene, forward primer",NA,addgene
+V5 Reverse,ACCGAGGAGAGGGTTAGGGAT,"V5 epitope, reverse primer",NA,addgene
+WPRE-R,CATAGCGTAAAAGGAGCAACA,"5' end of WPRE, reverse primer",NA,addgene
+XBG-R,GACTCCATTCGGGTGTTC,"Xenopus beta-globin 3'UTR, reverse primer",NA,addgene
+XEF1a,TTTCGCCCTAACTTCGTGAT,"Xenopus EF1 alpha enhancer/promoter, forward primer",NA,addgene
+Xpress Forward,TATGGCTAGCATGACTGGT,"Xpress epitope, forward primer",NA,addgene
